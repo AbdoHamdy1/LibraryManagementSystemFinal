@@ -385,3 +385,4 @@ C:\Users\Win_11\Desktop\ProjectRequires\LibraryManagementSystem-main\LMS\obj\Deb
 C:\Users\Win_11\Desktop\ProjectRequires\LibraryManagementSystem-main\LMS\obj\Debug\net7.0\LMS.pdb
 C:\Users\Win_11\Desktop\ProjectRequires\LibraryManagementSystem-main\LMS\obj\Debug\net7.0\LMS.genruntimeconfig.cache
 C:\Users\Win_11\Desktop\ProjectRequires\LibraryManagementSystem-main\LMS\obj\Debug\net7.0\ref\LMS.dll
+C:\Users\Win_11\Desktop\ProjectRequires\LibraryManagementSystem-main\LMS\obj\Debug\net7.0\LMS.sourcelink.json
